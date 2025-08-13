@@ -1,0 +1,8 @@
+Q1 Prompt:
+Use Case: Create a RESTful API login controller for a user login entity in a web application.
+
+Requirement:
+Generate a login controller with CRUD operations (GET, POST, PUT, DELETE)
+Include proper HTTP status codes and response handling
+Add input validation and error handling
+Include appropriate HTTP method annotations
